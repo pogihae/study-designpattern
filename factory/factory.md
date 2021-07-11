@@ -41,7 +41,10 @@
 2. **추상 팩토리**
     ```java
     abstract class Factory {
-        abstract void createProduct();
+        abstract void createIngedient1();
+        abstract void createIngedient2();
+        abstract void createIngedient3();
     }
     ```
     - 하나의 객체로 관리
+    - 
