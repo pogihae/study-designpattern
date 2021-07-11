@@ -62,7 +62,7 @@
        
        public static SingleTon getObj(){
            if(obj == null){
-              synchronized{
+              synchronized(SingleTon.class){
                   if(obj == null) obj = new SingleTon();
               }
            }
