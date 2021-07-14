@@ -1,2 +1,7 @@
-# study-designpattern
-:book: study
+# 디자인 패턴
+
+- [[스트래티지]](Strategy/strategy.md)
+- [[옵저버]](observer/observer.md)
+- [[데코레이터]](decorator/decorator.md)
+- [[팩토리]](factory/factory.md)
+- [[싱글톤]](singleton/singleton.md)
