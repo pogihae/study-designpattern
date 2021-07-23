@@ -7,4 +7,4 @@
 - [[싱글톤]](singleton/singleton.md)
 - [[커맨드]](command/command.md)
 - [[어댑터]](adapter/adapter.md)
-- [[탬플릿메소드]](templatesMethod/templatesMethod.md)
+- [[탬플릿메소드]](templatesMethod/templateMethod.md)
